@@ -2,12 +2,12 @@
 changes position according to the surrounding light sources. Technical design from underneath the canopy can be seen below.
 
 
-              ![image](https://github.com/erentuncay/intelligent_canopy/assets/151024857/63041e9a-f4ee-4ad5-ad93-f3e57acbda58)
+![image](https://github.com/erentuncay/intelligent_canopy/assets/151024857/63041e9a-f4ee-4ad5-ad93-f3e57acbda58)
 
 
 Detailed description of the project and operations can be seen in the "Optima Technologies Design Report". Also, an example view of the cameras of the canopy is shown below.
 
 
-              ![image](https://github.com/erentuncay/intelligent_canopy/assets/151024857/6d914034-9ebb-43c2-9740-39ab3ea180aa)
+![image](https://github.com/erentuncay/intelligent_canopy/assets/151024857/6d914034-9ebb-43c2-9740-39ab3ea180aa)
 
 
