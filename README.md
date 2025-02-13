@@ -1,3 +1,5 @@
+# Shadow-Fixing Intelligent Canopy
+
 "Shadow-Fixing Intelligent Canopy" has been one of the METU EE493-EE494 Design Course Projects in Fall 2022. Creating a team with 4 partners, i.e. Optima Technologies, I have been one of the designers of an intelligent canopy device that actively
 changes position according to the surrounding light sources. Technical design from underneath the canopy can be seen below.
 
